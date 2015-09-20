@@ -1,0 +1,1 @@
+A simple Example on how to use OSMDroid  to make a simple map based android app
